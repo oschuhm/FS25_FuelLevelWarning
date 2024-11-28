@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="92">
+<modDesc descVersion="93">
   <author>LS-Farmers</author>
   <version>1.0.0.0</version>
   <title>
@@ -8,17 +8,21 @@
   </title>
   <description>
     <en>
-    <![CDATA[Description: This mods adds an acoustic warning to your motorized vehicle.
-Warning starts in case your tank level is below 20%.
+<![CDATA[Acoustic tank warning when the fuel level is less than 20%.
 It works for diesel, methane and electric engines.
+You will receive an acoustic warning before your vehicle breaks down.
+
 GitHub link: https://github.com/oschuhm/FS25_FuelLevelWarning
-]]></en>
+]]>
+    </en>
     <de>
-    <![CDATA[Beschreibung: Akustische Tankwarnung bei weniger als 20% Tankinhalt.
+<![CDATA[Akustische Tankwarnung bei weniger als 20% Tankinhalt.
 Das ganze funktioniert für Diesel-, Methan- und Elektromotoren.
 Ihr erhaltet somit eine akustische Warnung bevor ihr mit eurem Fahrzeug liegen bleibt.
+
 GitHub-Link: https://github.com/oschuhm/FS25_FuelLevelWarning
-]]></de>
+]]>
+    </de>
   </description>
   <multiplayer supported="true"/>
   <iconFilename>icon_fuelLevelWarning.dds</iconFilename>
